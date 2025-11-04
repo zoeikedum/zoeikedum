@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Zoe!
 
-<!--
-**zoeikedum/zoeikedum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **FinTech student at Covenant University**  
+💻 Currently learning **Frontend Development** and **Data Analytics**  
+🌱 Passionate about using technology to create smart, impactful solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 🌐 Frontend projects using HTML, CSS, and JavaScript  
+- 📊 Data analysis and visualization projects  
+- 🧩 Building my foundation toward full stack development  
+
+---
+
+## 🧠 What I'm Learning
+- Frontend frameworks (React, Tailwind CSS)  
+- Data Analytics (Python, Excel, Power BI, SQL)  
+- Git, GitHub, and collaborative development 
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/zoe-ikedum-97b7b6354/
+- ✉️ Email: ikedumzoe@gmail.com
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoeikedum&show_icons=true&theme=radical)
